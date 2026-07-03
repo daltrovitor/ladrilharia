@@ -88,6 +88,7 @@ const SIMULATOR_COLORS = [
 export default function Home() {
   const [selectedTile, setSelectedTile] = useState<TileItem | null>(null);
   const [simColor, setSimColor] = useState(SIMULATOR_COLORS[0]);
+  const [menuOpen, setMenuOpen] = useState(false);
 
   // Handle tile click to open modal
   const openTileModal = (tile: TileItem) => {
@@ -164,12 +165,113 @@ export default function Home() {
 
         <Link
           href="/simulador"
-          className="magnetic px-5 py-2.5 rounded-full bg-gold text-coal text-xs uppercase tracking-[0.15em] font-bold hover:bg-cream hover:text-coal transition-all duration-300 shadow-[inset_0_1px_1px_rgba(255,255,255,0.2)]"
+          className="hidden md:block magnetic px-5 py-2.5 rounded-full bg-gold text-coal text-xs uppercase tracking-[0.15em] font-bold hover:bg-cream hover:text-coal transition-all duration-300 shadow-[inset_0_1px_1px_rgba(255,255,255,0.2)]"
           data-cursor-text="Simular"
         >
           Simulador
         </Link>
+
+        {/* Mobile Hamburger Button */}
+        <button
+          onClick={() => setMenuOpen(!menuOpen)}
+          className="block md:hidden text-cream hover:text-gold transition-colors focus:outline-none z-50 p-2"
+          aria-label="Menu"
+        >
+          <div className="w-6 h-5 flex flex-col justify-between items-center relative">
+            <span
+              className={`w-6 h-[2px] bg-current rounded transition-all duration-300 origin-center ${
+                menuOpen ? "rotate-45 translate-y-[9px]" : ""
+              }`}
+            />
+            <span
+              className={`w-6 h-[2px] bg-current rounded transition-all duration-300 ${
+                menuOpen ? "opacity-0" : ""
+              }`}
+            />
+            <span
+              className={`w-6 h-[2px] bg-current rounded transition-all duration-300 origin-center ${
+                menuOpen ? "-rotate-45 -translate-y-[9px]" : ""
+              }`}
+            />
+          </div>
+        </button>
       </nav>
+
+      {/* Fullscreen Mobile Menu Overlay */}
+      <div
+        className={`fixed inset-0 z-40 bg-coal/98 backdrop-blur-lg flex flex-col justify-center items-center transition-all duration-500 ease-in-out ${
+          menuOpen
+            ? "opacity-100 pointer-events-auto translate-y-0"
+            : "opacity-0 pointer-events-none -translate-y-4"
+        }`}
+      >
+        <div className="absolute inset-0 bg-radial-at-t from-gold/10 via-transparent to-transparent pointer-events-none" />
+
+        <div className="flex flex-col items-center gap-6 z-10 text-center">
+          <span className="text-[10px] uppercase tracking-[0.4em] text-gold font-bold mb-2">
+            Navegação
+          </span>
+          <a
+            href="#linhas"
+            onClick={() => setMenuOpen(false)}
+            className="font-serif text-2xl text-cream hover:text-gold transition-colors duration-300"
+          >
+            Linhas
+          </a>
+          <a
+            href="#artistas"
+            onClick={() => setMenuOpen(false)}
+            className="font-serif text-2xl text-cream hover:text-gold transition-colors duration-300"
+          >
+            Artistas
+          </a>
+          <a
+            href="#azulejos"
+            onClick={() => setMenuOpen(false)}
+            className="font-serif text-2xl text-cream hover:text-gold transition-colors duration-300"
+          >
+            Azulejos
+          </a>
+          <a
+            href="#fotos"
+            onClick={() => setMenuOpen(false)}
+            className="font-serif text-2xl text-cream hover:text-gold transition-colors duration-300"
+          >
+            Projetos
+          </a>
+          <a
+            href="#personalizacao"
+            onClick={() => setMenuOpen(false)}
+            className="font-serif text-2xl text-cream hover:text-gold transition-colors duration-300"
+          >
+            Personalização
+          </a>
+          <a
+            href="#downloads"
+            onClick={() => setMenuOpen(false)}
+            className="font-serif text-2xl text-cream hover:text-gold transition-colors duration-300"
+          >
+            Técnico
+          </a>
+          <a
+            href="#contato"
+            onClick={() => setMenuOpen(false)}
+            className="font-serif text-2xl text-cream hover:text-gold transition-colors duration-300"
+          >
+            Contato
+          </a>
+
+          <div className="w-16 h-[1px] bg-cream/10 my-2" />
+
+          <Link
+            href="/simulador"
+            onClick={() => setMenuOpen(false)}
+            className="px-8 py-3 rounded-full bg-gold text-coal text-xs uppercase tracking-[0.2em] font-bold hover:bg-cream hover:text-coal transition-all duration-300 shadow-[inset_0_1px_1px_rgba(255,255,255,0.2)]"
+          >
+            Simulador
+          </Link>
+        </div>
+      </div>
 
       {/* 2. Hero Section */}
       <header className="relative min-h-[100dvh] w-full flex flex-col justify-center pt-32 pb-16 px-6 md:px-24">
