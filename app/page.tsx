@@ -440,7 +440,7 @@ export default function Home() {
             </h2>
           </div>
 
-          <div className="horizontal-gallery-container overflow-hidden w-full relative">
+          <div className="horizontal-gallery-container overflow-x-auto md:overflow-hidden no-scrollbar w-full relative">
             <div className="horizontal-gallery-track flex gap-8 w-max px-6 md:px-24">
               <div
                 className="w-[300px] md:w-[500px] aspect-[4/3] bg-white/5 border border-cream/10 rounded-[2.5rem] overflow-hidden relative flex-shrink-0"

@@ -216,51 +216,93 @@ const SLIDES = [
           <span className="text-[9px] uppercase tracking-[0.3em] text-gold font-bold block">
             Financeiro
           </span>
-          <h2 className="font-serif text-4xl md:text-5xl text-cream font-light leading-none">
-            Investimento Total
+          <h2 className="font-serif text-3xl md:text-4xl text-cream font-light leading-none">
+            Investimento & Condições
           </h2>
-          <div className="py-2">
-            <span className="font-serif text-7xl md:text-8xl text-gold font-bold leading-none block">
-              1497
-            </span>
-            <span className="text-[10px] uppercase tracking-widest text-cream/45 block mt-2">
-              Valor único para entrega da plataforma completa
-            </span>
+          
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4">
+            <div className="bg-white/5 border border-cream/10 rounded-2xl p-4 hover:border-gold/30 transition-all duration-300">
+              <span className="text-[9px] uppercase tracking-wider text-gold font-bold block mb-1">
+                À Vista
+              </span>
+              <div className="flex items-baseline gap-1">
+                <span className="text-xs text-cream/50 font-serif">R$</span>
+                <span className="font-serif text-3xl text-cream font-bold leading-none">
+                  1.497
+                </span>
+              </div>
+              <span className="text-[10px] text-cream/45 block mt-2">
+                No Pix ou transferência bancária única
+              </span>
+            </div>
+            
+            <div className="bg-white/5 border border-cream/10 rounded-2xl p-4 hover:border-gold/30 transition-all duration-300">
+              <span className="text-[9px] uppercase tracking-wider text-gold font-bold block mb-1">
+                Parcelado
+              </span>
+              <div className="flex items-baseline gap-1">
+                <span className="text-xs text-cream/50 font-serif">10x</span>
+                <span className="font-serif text-3xl text-cream font-bold leading-none">
+                  185
+                </span>
+              </div>
+              <span className="text-[10px] text-cream/45 block mt-2">
+                Sem juros no cartão de crédito (Total: R$ 1.850)
+              </span>
+            </div>
           </div>
-          <p className="text-cream/60 text-sm leading-relaxed">
-            Incluso: Redesenho visual, Simulador dinâmico de paginações,
+
+          <p className="text-cream/60 text-xs md:text-sm leading-relaxed">
+            Incluso: Redesenho visual completo, Simulador dinâmico de paginações,
             Integração com WhatsApp, SEO otimizado, Hospedagem gratuita no
             domínio atual e 30 dias de suporte pós-lançamento.
           </p>
         </div>
 
         <div className="md:col-span-6 bg-white/5 border border-cream/10 rounded-[2rem] p-8 space-y-6">
-          <div>
-            <h4 className="text-xs uppercase tracking-wider text-gold font-bold mb-1">
-              Hospedagem & Domínio
-            </h4>
-            <p className="text-cream/65 text-xs">
-              Configuração no domínio atual sem custos de hospedagem (Deploy
-              Vercel com CDN global gratuito).
-            </p>
-          </div>
-          <div className="border-t border-cream/10 pt-4">
-            <h4 className="text-xs uppercase tracking-wider text-gold font-bold mb-1">
-              Integração WhatsApp
-            </h4>
-            <p className="text-cream/65 text-xs">
-              Botões de solicitação no portfólio e no configurador direcionados
-              ao contato comercial com especificações prontas.
-            </p>
-          </div>
-          <div className="border-t border-cream/10 pt-4">
-            <h4 className="text-xs uppercase tracking-wider text-gold font-bold mb-1">
-              SEO de Alta Performance
-            </h4>
-            <p className="text-cream/65 text-xs">
-              Foco em indexação rápida do Google, metadados semânticos completos
-              e tempo de resposta instantâneo.
-            </p>
+          <span className="text-[9px] uppercase tracking-[0.3em] text-gold font-bold block">
+            Pós-Lançamento
+          </span>
+          <h3 className="font-serif text-2xl text-cream font-light -mt-2">
+            Manutenção & Evolução
+          </h3>
+          
+          <div className="space-y-4">
+            <div className="border-l-2 border-gold pl-4">
+              <h4 className="text-xs uppercase tracking-wider text-gold font-bold">
+                Plano de Manutenção
+              </h4>
+              <p className="text-cream/80 text-sm font-semibold mt-0.5">
+                R$ 180 / mês
+              </p>
+              <p className="text-cream/50 text-xs mt-1">
+                Para suporte técnico contínuo, atualizações de segurança e pequenos ajustes.
+              </p>
+            </div>
+            
+            <div className="border-t border-cream/10 pt-4 border-l-2 border-gold pl-4">
+              <h4 className="text-xs uppercase tracking-wider text-gold font-bold">
+                Combo de Mudanças
+              </h4>
+              <p className="text-cream/80 text-sm font-semibold mt-0.5">
+                Opcional Sob Demanda
+              </p>
+              <p className="text-cream/50 text-xs mt-1">
+                Se preferir não assinar mensalidade, você pode adquirir um combo fechado de alterações no site após um mês da entrega (projeto fechado).
+              </p>
+            </div>
+            
+            <div className="border-t border-cream/10 pt-4 border-l-2 border-cream/20 pl-4">
+              <h4 className="text-xs uppercase tracking-wider text-cream/60 font-bold">
+                Hospedagem & Infraestrutura
+              </h4>
+              <p className="text-cream/80 text-sm font-semibold mt-0.5">
+                Custo Zero Permanente
+              </p>
+              <p className="text-cream/50 text-xs mt-1">
+                Deploy gratuito e CDN global via Vercel vinculados ao domínio da Ladrilharia.
+              </p>
+            </div>
           </div>
         </div>
       </div>

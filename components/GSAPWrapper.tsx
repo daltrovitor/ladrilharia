@@ -8,6 +8,7 @@ export default function GSAPWrapper() {
   useEffect(() => {
     // Only execute on browser
     gsap.registerPlugin(ScrollTrigger);
+    const mm = gsap.matchMedia();
 
     // 1. Initial Hero Entry Animation (runs on mount after loader)
     const heroTl = gsap.timeline();
@@ -73,24 +74,26 @@ export default function GSAPWrapper() {
 
     // 5. Horizontal Scroll Section (Direction Change for Photos)
     const track = document.querySelector(".horizontal-gallery-track");
-    const container = document.querySelector("#galeria-horizontal");
+    const container = document.querySelector("#fotos");
     if (track && container) {
       // Delay slightly to ensure layout calculation is accurate
       const setupHorizontalScroll = () => {
-        const scrollWidth = track.scrollWidth - window.innerWidth;
-        if (scrollWidth <= 0) return; // No scroll needed if content fits
-        
-        gsap.to(track, {
-          x: -scrollWidth,
-          ease: "none",
-          scrollTrigger: {
-            trigger: container,
-            pin: true,
-            scrub: 1,
-            start: "top top",
-            end: () => `+=${track.scrollWidth}`,
-            invalidateOnRefresh: true,
-          },
+        mm.add("(min-width: 768px)", () => {
+          const scrollWidth = track.scrollWidth - window.innerWidth;
+          if (scrollWidth <= 0) return; // No scroll needed if content fits
+          
+          gsap.to(track, {
+            x: -scrollWidth,
+            ease: "none",
+            scrollTrigger: {
+              trigger: container,
+              pin: true,
+              scrub: 1,
+              start: "top top",
+              end: () => `+=${track.scrollWidth}`,
+              invalidateOnRefresh: true,
+            },
+          });
         });
       };
       
@@ -119,6 +122,7 @@ export default function GSAPWrapper() {
     });
 
     return () => {
+      mm.revert();
       ScrollTrigger.getAll().forEach((trigger) => trigger.kill());
     };
   }, []);
