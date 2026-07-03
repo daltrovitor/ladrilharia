@@ -5,7 +5,6 @@ import Image from "next/image";
 import Link from "next/link";
 import CatalogSlider, { TILE_DATA, TileItem } from "@/components/CatalogSlider";
 import GSAPWrapper from "@/components/GSAPWrapper";
-import SmoothScroll from "@/components/SmoothScroll";
 
 // Artist collections
 const ARTIST_DATA = [
@@ -98,9 +97,6 @@ export default function Home() {
 
   return (
     <div className="flex flex-col min-h-screen relative w-full overflow-x-hidden">
-      {/* Lenis Smooth Scroll */}
-      <SmoothScroll />
-
       {/* GSAP Scroll Anim Coordinator */}
       <GSAPWrapper />
 

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Preloader from "@/components/Preloader";
 import CustomCursor from "@/components/CustomCursor";
+import SmoothScroll from "@/components/SmoothScroll";
 
 export const metadata: Metadata = {
   title: "Ladrilho Hidráulico | Ladrilharia | Brasília, Brasil",
@@ -38,6 +39,9 @@ export default function RootLayout({
   return (
     <html lang="pt-BR" className="h-full antialiased scroll-smooth">
       <body className="min-h-full flex flex-col bg-cream text-coal overflow-x-hidden selection:bg-gold selection:text-white">
+        {/* Global Smooth Scroll */}
+        <SmoothScroll />
+
         {/* Preloader Screen */}
         <Preloader />
 
