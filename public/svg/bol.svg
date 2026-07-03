@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3}
+	.st1{fill: white; stroke: black; stroke-width: 3}
+	.st2{fill: white; stroke: black; stroke-width: 3}
+</style>
+<path class="st0" d="M198.96,397.96c-110.01,0-199.51-89.33-199.51-199.12S88.95-0.27,198.96-0.27s199.51,89.33,199.51,199.12 S308.97,397.96,198.96,397.96z M198.96,15.85c-101.11,0-183.36,82.1-183.36,183c0,100.91,82.25,183,183.36,183 s183.36-82.09,183.36-183C382.32,97.94,300.07,15.85,198.96,15.85z"/>
+<path class="st1" d="M204.26,0c107.56,2.76,194.22,90.94,194.22,198.95c0,109.73-89.46,199.01-199.41,199.01	S-0.34,308.68-0.34,198.95C-0.34,90.95,86.31,2.76,193.87,0H-0.73v399.74H399.8V0H204.26z"/>
+<ellipse class="st1" cx="199.06" cy="198.95" rx="183.26" ry="182.9"/>
+<path class="st2" d="M875.91,66.28c-1.74,0-3.47,0.02-5.19,0.07h10.38C879.37,66.3,877.64,66.28,875.91,66.28z"/>
+</svg>

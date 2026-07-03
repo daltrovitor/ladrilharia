@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" 
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3;}
+	.st1{fill: white; stroke: black; stroke-width: 3;}
+</style>
+<path class="st0" d="M399.99,256.7H143.44V-0.02h-19.99V256.7H81.1c-34.37,0-62.34,27.98-62.34,62.37
+  c0,34.39,27.97,62.37,62.34,62.37c34.37,0,62.34-27.98,62.34-62.37V276.7h256.56V256.7z M123.44,319.07
+  c0,23.37-19,42.37-42.34,42.37s-42.35-19-42.35-42.37c0-23.37,19-42.37,42.35-42.37h42.34V319.07z" shape-rendering="crispEdges"/>
+<path class="st1" d="M38.75,319.07c0,23.37,19,42.37,42.35,42.37s42.34-19,42.34-42.37V276.7H81.1
+  C57.75,276.7,38.75,295.7,38.75,319.07z" shape-rendering="crispEdges"/>
+<path class="st1" d="M0.16-0.03v400.08h399.83V-0.03H0.16z M399.99,276.7H143.44v42.37c0,34.39-27.97,62.37-62.34,62.37
+  c-34.37,0-62.34-27.98-62.34-62.37c0-34.39,27.97-62.37,62.34-62.37h42.34V-0.02h19.99V256.7h256.56V276.7z" shape-rendering="crispEdges"/>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" 
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3;}
+	.st1{fill: white; stroke: black; stroke-width: 3;}
+</style>
+<rect x="0.01" y="0.03" class="st0" width="399.96" height="399.99"/>
+<polygon class="st1" points="399.97,0.02 359.24,0.13 197.56,40.33 202.42,59.72 367.31,18.5 192.72,192.75 206.86,206.89 381.52,32.56 340.27,197.6 359.68,202.44 400.02,41.08 		"/>
+<ellipse transform="matrix(0.9999 -0.0168 0.0168 0.9999 -4.1759 2.5556)" class="st1" cx="150.14" cy="250.02" rx="16.94" ry="16.94"/>
+<path class="st1" d="M383.86,283.08c0-9.35-7.58-16.94-16.94-16.94c-9.36,0-16.95,7.59-16.95,16.94c0,9.36,7.58,16.94,16.95,16.94 C376.27,300.02,383.86,292.43,383.86,283.08z"/>
+<ellipse transform="matrix(0.9999 -0.0168 0.0168 0.9999 -1.658 2.5278)" class="st1" cx="149.74" cy="100.02" rx="16.94" ry="16.94"/>
+<path class="st1" d="M299.98,216.96c0-9.36-7.58-16.94-16.93-16.94c-9.36,0-16.95,7.58-16.95,16.94c0,9.35,7.58,16.94,16.95,16.94 C292.39,233.9,299.98,226.31,299.98,216.96z"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3}
+	.st1{fill: white; stroke: black; stroke-width: 3}
+	.st2{fill: white; stroke: black; stroke-width: 3}
+</style>
+<rect id="XMLID_1615_" x="0.03" y="200.13" class="st0" width="399.98" height="199.9"/>
+<polygon id="XMLID_1614_" class="st0" points="267.14,133.5 133.36,133.44 66.7,66.74 333.49,66.94 		"/>
+<rect id="XMLID_1613_" x="0.03" y="133.44" class="st1" width="399.98" height="66.69"/>
+<polygon id="XMLID_1612_" class="st1" points="333.49,66.94 66.7,66.74 0.04,0.06 400.18,0.06 		"/>
+<polygon id="XMLID_1611_" class="st2" points="0.04,0.04 0.03,133.44 133.36,133.44 		"/>
+<polygon id="XMLID_1610_" class="st2" points="267.14,133.5 400.01,133.44 400.18,0.06 		"/>
+<polygon id="XMLID_1609_" class="st2" points="0.03,200.03 0.03,266.82 133.32,400.34 199.98,400.34 		"/>
+</svg>

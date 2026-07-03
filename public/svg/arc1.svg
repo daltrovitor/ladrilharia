@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3;}
+	.st1{fill: white; stroke: black; stroke-width: 3;}
+	.st2{fill: white; stroke: black; stroke-width: 3;}
+	.st3{fill: white; stroke: black; stroke-width: 3;}
+	.st4{fill: white; stroke: black; stroke-width: 3;}
+	.st5{fill: white; stroke: black; stroke-width: 3;}
+</style>
+<path class="st0" d="M0.47,285.91c157.62,0,285.4-127.78,285.4-285.4h57.08c0,189.14-153.33,342.48-342.48,342.48V285.91z"/>
+<path class="st1" d="M0.47,228.83c126.1,0,228.32-102.22,228.32-228.32h57.08c0,157.62-127.78,285.4-285.4,285.4V228.83z"/>
+<path class="st2" d="M0.47,167.53c92.24,0,167.02-74.78,167.02-167.02h61.3c0,126.1-102.22,228.32-228.32,228.32V167.53z"/>
+<path class="st3" d="M0.47,114.67c63.05,0,114.16-51.11,114.16-114.16h52.86c0,92.24-74.78,167.02-167.02,167.02V114.67z"/>
+<path class="st4" d="M59.89,0.51c0,32.82-26.6,59.42-59.42,59.42v54.74c63.05,0,114.16-51.11,114.16-114.16H59.89z"/>
+<path class="st5" d="M342.95,0.51c0,189.12-153.29,342.43-342.4,342.48v57.81h399.35V-0.34L342.95,0.51z"/>
+<path class="st5" d="M0.47,59.94c32.82,0,59.42-26.6,59.42-59.42L0.26,0.36L0.47,59.94z"/>
+</svg>

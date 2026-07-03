@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3;}
+	.st1{fill: white; stroke: black; stroke-width: 3;}
+	.st2{fill: white; stroke: black; stroke-width: 3;}
+	.st3{fill: white; stroke: black; stroke-width: 3;}
+</style>
+<line class="st0" x1="1237.34" y1="210.26" x2="1237.34" y2="210.26"/>
+<ellipse class="st1" cx="199.96" cy="200.12" rx="30.53" ry="30.58"/>
+<path class="st2" d="M199.96,64.01c-75.05,0-135.88,60.94-135.88,136.11s60.84,136.11,135.88,136.11	c75.05,0,135.88-60.94,135.88-136.11S275,64.01,199.96,64.01z M199.96,230.71c-16.86,0-30.53-13.69-30.53-30.58	s13.67-30.58,30.53-30.58c16.86,0,30.53,13.69,30.53,30.58S216.82,230.71,199.96,230.71z"/>
+<path class="st3" d="M0.07,0.07v400.11h399.78V0.07H0.07z M199.96,336.24c-75.05,0-135.88-60.94-135.88-136.11	S124.91,64.01,199.96,64.01c75.05,0,135.88,60.94,135.88,136.11S275,336.24,199.96,336.24z"/>
+</svg>

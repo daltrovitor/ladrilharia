@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3;}
+	.st1{fill: white; stroke: black; stroke-width: 3;}
+</style>
+<rect x="310.01" y="45.04" transform="matrix(0.7071 -0.7071 0.7071 0.7071 67.1381 262.1577)" class="st0" width="79.99" height="10"/>
+<rect x="45.03" y="10.05" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -20.7317 50.0309)" class="st0" width="10" height="79.99"/>
+<rect x="10.04" y="345.01" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -232.8452 137.8999)" class="st0" width="79.99" height="10"/>
+<rect x="345.01" y="310.01" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -144.9754 350.0001)" class="st0" width="10" height="79.99"/>
+<path class="st1" d="M0.03,0.05V400h399.97V0.05H0.03z M25.28,18.23l56.56,56.56l-7.07,7.07L18.21,25.3L25.28,18.23z
+  M25.28,381.83l-7.07-7.07l56.56-56.56l7.07,7.07L25.28,381.83z M374.76,18.22l7.07,7.07l-56.56,56.56l-7.07-7.07L374.76,18.22z
+  M374.76,381.82l-56.56-56.56l7.07-7.07l56.56,56.56L374.76,381.82z"/>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3;}
+	.st1{fill: white; stroke: black; stroke-width: 3;}
+	.st2{fill: white; stroke: black; stroke-width: 3;}
+	.st3{fill: white; stroke: black; stroke-width: 3;}
+</style>
+<path class="st0" d="M-0.29,0.2v49.51c73.76,0,135.25,52.02,149.11,121.04c16.08,0.5,28.98,13.49,28.98,29.53	c0,16.05-12.9,29.04-28.98,29.53C134.96,298.84,73.47,350.86-0.29,350.86v49.51H400.9V0.2H-0.29z"/>			<path class="st0" d="M151.75,200.29c0-0.89-0.02-1.77-0.03-2.66C151.73,198.51,151.75,199.4,151.75,200.29	c0,0.89-0.02,1.77-0.03,2.66C151.73,202.06,151.75,201.17,151.75,200.29z"/>
+<rect x="0.21" y="-0.31" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 400.5909 -0.0167)" class="st1" width="400.18" height="401.19"/>
+<path class="st2" d="M-0.29,350.86c83.97,0,152.04-67.42,152.04-150.58S83.68,49.71-0.29,49.71l0,0V350.86L-0.29,350.86z"/>
+<path class="st3" d="M151.75,200.29c0,10.11-1.04,19.98-2.96,29.54c16.09-0.48,29.01-13.48,29.01-29.54 c0-16.06-12.92-29.05-29.01-29.54C150.71,180.31,151.75,190.17,151.75,200.29z"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:black;}
+	.st1{fill:none;stroke:black;}
+	.st2{fill:white;stroke:black;}
+	.st3{fill:white;stroke:black;}
+	.st4{fill:white;stroke:black;}
+</style>
+<line class="st0" x1="759.28" y1="210.26" x2="759.28" y2="210.26"/>
+<line class="st1" x1="1017.41" y1="184.78" x2="1017.41" y2="184.78"/>
+<line class="st0" x1="1237.34" y1="210.26" x2="1237.34" y2="210.26"/>
+<polygon id="XMLID_1394_" class="st2" points="0.1,400.12 0.1,266.83 133.43,133.54 133.43,400.12 		"/>
+<polygon id="XMLID_1395_" class="st3" points="0.1,133.54 0.1,266.83 266.76,0.24 133.43,0.24 		"/>
+<polygon id="XMLID_1393_" class="st3" points="266.76,400.12 400.09,0.24 400.09,400.12 		"/>
+<polygon id="XMLID_1396_" class="st4" points="0.1,0.24 0.1,133.54 133.43,0.24 		"/>
+<polygon id="XMLID_1392_" class="st4" points="133.43,133.54 266.76,0.24 400.09,0.24 266.76,400.12 133.43,400.12 		"/>
+</svg>

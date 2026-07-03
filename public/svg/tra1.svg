@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3;}
+	.st1{fill: white; stroke: black; stroke-width: 3;}
+</style>
+<polygon class="st0" points="210.44,400.01 193.47,400.01 400,193.48 400,210.45 		"/>
+<polygon class="st1" points="400,0.01 0,0.01 0,400.01 193.47,400.01 400,193.48 		"/>
+<polygon class="st1" points="210.44,400.01 400,400.01 400,210.45 		"/>
+</svg>

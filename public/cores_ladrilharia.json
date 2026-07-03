@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "name": "Y01 DIJON",
+    "category": "Amarelos",
+    "code": {
+      "pantone": "117 UP",
+      "rgb": [187, 150, 0],
+      "cmyk": [2, 18, 100, 18]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Y02 MOSTARDA",
+    "category": "Amarelos",
+    "code": {
+      "pantone": "109 UP",
+      "rgb": [238, 177, 0],
+      "cmyk": [0, 11, 96, 0]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Y03 FUSCA",
+    "category": "Amarelos",
+    "code": {
+      "pantone": "115 UP",
+      "rgb": [249, 198, 0],
+      "cmyk": [0, 11, 94, 0]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Y04 FIENA",
+    "category": "Amarelos",
+    "code": {
+      "pantone": "128 UP",
+      "rgb": [251, 215, 99],
+      "cmyk": [0, 11, 70, 0]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Y05 PALHA",
+    "category": "Amarelos",
+    "code": {
+      "pantone": "7401 UP",
+      "rgb": [248, 229, 182],
+      "cmyk": [0, 6, 32, 0]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Y06 MARFIM",
+    "category": "Amarelos",
+    "code": {
+      "pantone": "600 UP",
+      "rgb": [251, 240, 204],
+      "cmyk": [3, 0, 40, 0]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Y07 GIRASOL",
+    "category": "Amarelos",
+    "code": {
+      "pantone": "2007 UP",
+      "rgb": [231, 161, 0],
+      "cmyk": [0, 27, 95, 4]
+    }
+  },
+  {
+    "id": 8,
+    "name": "W01 PRETO",
+    "category": "Cinzas",
+    "code": {
+      "pantone": "Black 3 UP",
+      "rgb": [65, 65, 70],
+      "cmyk": [58, 43, 70, 54]
+    }
+  },
+  {
+    "id": 9,
+    "name": "W02 GRAFITE",
+    "category": "Cinzas",
+    "code": {
+      "pantone": "Warm gray 9 UP",
+      "rgb": [110, 109, 97],
+      "cmyk": [15, 20, 22, 45]
+    }
+  },
+  {
+    "id": 10,
+    "name": "W03 NORMAL",
+    "category": "Cinzas",
+    "code": {
+      "pantone": "Warm gray 6 UP",
+      "rgb": [161, 151, 144],
+      "cmyk": [11, 14, 18, 32]
+    }
+  },
+  {
+    "id": 11,
+    "name": "W04 CLARO",
+    "category": "Cinzas",
+    "code": {
+      "pantone": "Warm gray 3 UP",
+      "rgb": [195, 183, 180],
+      "cmyk": [8, 9, 11, 20]
+    }
+  },
+  {
+    "id": 12,
+    "name": "W05 MARTINELLI",
+    "category": "Cinzas",
+    "code": {
+      "pantone": "7528 UP",
+      "rgb": [225, 219, 217],
+      "cmyk": [3, 6, 9, 10]
+    }
+  },
+  {
+    "id": 13,
+    "name": "W06 NEBLINA",
+    "category": "Cinzas",
+    "code": {
+      "pantone": "7527 UP",
+      "rgb": [238, 229, 222],
+      "cmyk": [3, 4, 11, 5]
+    }
+  },
+  {
+    "id": 14,
+    "name": "W07 BRANCO",
+    "category": "Cinzas",
+    "code": {
+      "pantone": "",
+      "rgb": [244, 238, 236],
+      "cmyk": [0, 0, 0]
+    }
+  },
+  {
+    "id": 15,
+    "name": "W08 PRETO PROFUNDO",
+    "category": "Cinzas",
+    "code": {
+      "pantone": "Black 6 UP",
+      "rgb": [39, 44, 50],
+      "cmyk": [86, 69, 43, 55]
+    }
+  },
+  {
+    "id": 16,
+    "name": "P01 ROSA",
+    "category": "Rosas",
+    "code": {
+      "pantone": "196 UP",
+      "rgb": [251, 218, 211],
+      "cmyk": [0, 25, 10, 0]
+    }
+  },
+  {
+    "id": 17,
+    "name": "P02 MAGENTA",
+    "category": "Rosas",
+    "code": {
+      "pantone": "2344 UP",
+      "rgb": [244, 174, 206],
+      "cmyk": [0, 56, 51, 0]
+    }
+  },
+  {
+    "id": 18,
+    "name": "P03 PÊSSEGO",
+    "category": "Rosas",
+    "code": {
+      "pantone": "713 UP",
+      "rgb": [251, 202, 155],
+      "cmyk": [0, 24, 39, 0]
+    }
+  },
+  {
+    "id": 19,
+    "name": "P04 SALMÃO",
+    "category": "Rosas",
+    "code": {
+      "pantone": "2015 UP",
+      "rgb": [252, 214, 175],
+      "cmyk": [0, 13, 30, 0]
+    }
+  },
+  {
+    "id": 20,
+    "name": "P05 GOIABA",
+    "category": "Rosas",
+    "code": {
+      "pantone": "7619 UP",
+      "rgb": [196, 114, 109],
+      "cmyk": [0, 73, 85, 9]
+    }
+  },
+  {
+    "id": 21,
+    "name": "E01 MUSGO",
+    "category": "Terrosos",
+    "code": {
+      "pantone": "457 UP",
+      "rgb": [189, 161, 90],
+      "cmyk": [10, 18, 95, 23]
+    }
+  },
+  {
+    "id": 22,
+    "name": "E02 KRAFT",
+    "category": "Terrosos",
+    "code": {
+      "pantone": "4705 UP",
+      "rgb": [171, 135, 126],
+      "cmyk": [37, 52, 58, 10]
+    }
+  },
+  {
+    "id": 23,
+    "name": "E03 CERÂMICA",
+    "category": "Terrosos",
+    "code": {
+      "pantone": "480 UP",
+      "rgb": [211, 186, 171],
+      "cmyk": [13, 30, 34, 0]
+    }
+  },
+  {
+    "id": 24,
+    "name": "E04 CHOCOLATE",
+    "category": "Terrosos",
+    "code": {
+      "pantone": "7517 UP",
+      "rgb": [135, 87, 82],
+      "cmyk": [18, 56, 86, 25]
+    }
+  },
+  {
+    "id": 25,
+    "name": "E05 BARRO",
+    "category": "Terrosos",
+    "code": {
+      "pantone": "472 UP",
+      "rgb": [199, 128, 111],
+      "cmyk": [5, 45, 65, 1]
+    }
+  },
+  {
+    "id": 26,
+    "name": "O01 LARANJA",
+    "category": "Laranjas",
+    "code": {
+      "pantone": "149 UP",
+      "rgb": [227, 150, 15],
+      "cmyk": [0, 26, 53, 0]
+    }
+  },
+  {
+    "id": 27,
+    "name": "O02 OCRE",
+    "category": "Laranjas",
+    "code": {
+      "pantone": "721 UP",
+      "rgb": [207, 138, 129],
+      "cmyk": [4, 29, 44, 2]
+    }
+  },
+  {
+    "id": 28,
+    "name": "O03 TANGERINA",
+    "category": "Laranjas",
+    "code": {
+      "pantone": "2431 UP",
+      "rgb": [210, 131, 96],
+      "cmyk": [3, 43, 84, 3]
+    }
+  },
+  {
+    "id": 29,
+    "name": "B01 PETRÓLEO",
+    "category": "Azuis",
+    "code": {
+      "pantone": "303 UP",
+      "rgb": [26, 49, 66],
+      "cmyk": [96, 35, 21, 52]
+    }
+  },
+  {
+    "id": 30,
+    "name": "B02 ACIZENTADO",
+    "category": "Azuis",
+    "code": {
+      "pantone": "5415 UP",
+      "rgb": [122, 149, 166],
+      "cmyk": [51, 20, 14, 31]
+    }
+  },
+  {
+    "id": 31,
+    "name": "B03 GRÍZIO",
+    "category": "Azuis",
+    "code": {
+      "pantone": "550 UP",
+      "rgb": [120, 140, 141],
+      "cmyk": [47, 8, 12, 1]
+    }
+  },
+  {
+    "id": 32,
+    "name": "B04 COLONIAL",
+    "category": "Azuis",
+    "code": {
+      "pantone": "3025 UP",
+      "rgb": [57, 93, 119],
+      "cmyk": [99, 14, 12, 45]
+    }
+  },
+  {
+    "id": 33,
+    "name": "B05 BRASÍLIA",
+    "category": "Azuis",
+    "code": {
+      "pantone": "2205 UP",
+      "rgb": [136, 180, 210],
+      "cmyk": [48, 10, 12, 2]
+    }
+  },
+  {
+    "id": 34,
+    "name": "B06 BEBÊ",
+    "category": "Azuis",
+    "code": {
+      "pantone": "2204 UP",
+      "rgb": [174, 209, 237],
+      "cmyk": [32, 2, 7, 1]
+    }
+  },
+  {
+    "id": 35,
+    "name": "B07 CELESTE",
+    "category": "Azuis",
+    "code": {
+      "pantone": "3577 UP",
+      "rgb": [132, 161, 207],
+      "cmyk": [45, 12, 3, 3]
+    }
+  },
+  {
+    "id": 36,
+    "name": "B08 PISCINA",
+    "category": "Azuis",
+    "code": {
+      "pantone": "629 UP",
+      "rgb": [128, 179, 193],
+      "cmyk": [32, 0, 10, 0]
+    }
+  },
+  {
+    "id": 37,
+    "name": "B09 PORTUGAL",
+    "category": "Azuis",
+    "code": {
+      "pantone": "3538 UP",
+      "rgb": [81, 153, 200],
+      "cmyk": [96, 16, 0, 0]
+    }
+  },
+  {
+    "id": 38,
+    "name": "L01 LILÁS",
+    "category": "Roxos",
+    "code": {
+      "pantone": "667 UP",
+      "rgb": [147, 133, 137],
+      "cmyk": [46, 42, 10, 3]
+    }
+  },
+  {
+    "id": 39,
+    "name": "L02 ROYAL",
+    "category": "Roxos",
+    "code": {
+      "pantone": "2705 UP",
+      "rgb": [192, 178, 200],
+      "cmyk": [27, 25, 0, 0]
+    }
+  },
+  {
+    "id": 40,
+    "name": "L03 VESCOVO",
+    "category": "Roxos",
+    "code": {
+      "pantone": "5205 UP",
+      "rgb": [148, 118, 141],
+      "cmyk": [48, 56, 36, 1]
+    }
+  },
+  {
+    "id": 41,
+    "name": "G01 BANDEIRA",
+    "category": "Verdes",
+    "code": {
+      "pantone": "5645 UP",
+      "rgb": [158, 165, 149],
+      "cmyk": [37, 16, 33, 1]
+    }
+  },
+  {
+    "id": 42,
+    "name": "G02 DOURADO",
+    "category": "Verdes",
+    "code": {
+      "pantone": "618 UP",
+      "rgb": [168, 155, 129],
+      "cmyk": [24, 16, 70, 9]
+    }
+  },
+  {
+    "id": 43,
+    "name": "G03 ARDÓSIA",
+    "category": "Verdes",
+    "code": {
+      "pantone": "451 UP",
+      "rgb": [163, 160, 148],
+      "cmyk": [34, 23, 57, 10]
+    }
+  },
+  {
+    "id": 44,
+    "name": "G04 OLIVA",
+    "category": "Verdes",
+    "code": {
+      "pantone": "2404 UP",
+      "rgb": [166, 174, 133],
+      "cmyk": [41, 12, 40, 0]
+    }
+  },
+  {
+    "id": 45,
+    "name": "G05 TREVO",
+    "category": "Verdes",
+    "code": {
+      "pantone": "577 UP",
+      "rgb": [184, 201, 81],
+      "cmyk": [37, 3, 55, 2]
+    }
+  },
+  {
+    "id": 46,
+    "name": "G06 LIMÃO",
+    "category": "Verdes",
+    "code": {
+      "pantone": "397 UP",
+      "rgb": [177, 173, 54],
+      "cmyk": [16, 2, 99, 13]
+    }
+  },
+  {
+    "id": 47,
+    "name": "G07 TURQUESA",
+    "category": "Verdes",
+    "code": {
+      "pantone": "2235 UP",
+      "rgb": [118, 162, 173],
+      "cmyk": [83, 21, 39, 0]
+    }
+  },
+  {
+    "id": 48,
+    "name": "G08 PISTACHE",
+    "category": "Verdes",
+    "code": {
+      "pantone": "5875 UP",
+      "rgb": [228, 212, 182],
+      "cmyk": [6, 3, 33, 6]
+    }
+  },
+  {
+    "id": 49,
+    "name": "G9 ACQUA",
+    "category": "Verdes",
+    "code": {
+      "pantone": "3242 UP",
+      "rgb": [145, 187, 203],
+      "cmyk": [42, 0, 22, 0]
+    }
+  },
+  {
+    "id": 50,
+    "name": "G10 FLORESTA",
+    "category": "Verdes",
+    "code": {
+      "pantone": "2265 UP",
+      "rgb": [124, 147, 132],
+      "cmyk": [48, 0, 58, 34]
+    }
+  },
+  {
+    "id": 51,
+    "name": "R01 TERRACOTTA",
+    "category": "Vermelhos",
+    "code": {
+      "pantone": "7593 UP",
+      "rgb": [184, 115, 109],
+      "cmyk": [10, 64, 84, 20]
+    }
+  },
+  {
+    "id": 52,
+    "name": "R02 VINHO",
+    "category": "Vermelhos",
+    "code": {
+      "pantone": "7628 UP",
+      "rgb": [159, 109, 108],
+      "cmyk": [7, 78, 72, 14]
+    }
+  },
+  {
+    "id": 53,
+    "name": "R03 POZZOLANA",
+    "category": "Vermelhos",
+    "code": {
+      "pantone": "WARM RED UP",
+      "rgb": [200, 102, 99],
+      "cmyk": [0, 58, 57, 0]
+    }
+  },
+  {
+    "id": 54,
+    "name": "R04 ARGILA",
+    "category": "Vermelhos",
+    "code": {
+      "pantone": "730 UP",
+      "rgb": [178, 131, 68],
+      "cmyk": [19, 47, 74, 14]
+    }
+  },
+  {
+    "id": 55,
+    "name": "R05 CARDINAL",
+    "category": "Vermelhos",
+    "code": {
+      "pantone": "7627 UP",
+      "rgb": [196, 86, 82],
+      "cmyk": [7, 78, 70, 12]
+    }
+  }
+]

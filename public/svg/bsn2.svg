@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3;}
+	.st1{fill: white; stroke: black; stroke-width: 3;}
+	.st2{fill: white; stroke: black; stroke-width: 3;}
+</style>
+<path class="st0" d="M875.91,66.28c-1.74,0-3.47,0.02-5.19,0.07h10.38C879.37,66.3,877.64,66.28,875.91,66.28z"/>
+<path class="st1" d="M-0.45,399.93c110.45,0,199.99-89.51,199.99-199.93S110,0.07-0.45,0.07V399.93z"/>
+<path class="st2" d="M199.54,200c0,110.42-89.54,199.93-199.99,199.93l400.58-0.25V0.07l-400.58,0	C110,0.07,199.54,89.58,199.54,200"/>
+</svg>		

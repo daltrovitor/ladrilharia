@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" 
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3;}
+	.st1{fill: white; stroke: black; stroke-width: 3;}
+	.st2{fill: white; stroke: black; stroke-width: 3;}
+	.st3{fill: white; stroke: black; stroke-width: 3;}
+	.st4{fill: white; stroke: black; stroke-width: 3;}
+	.st5{fill: white; stroke: black; stroke-width: 3;}
+</style>
+<line class="st0" x1="539.35" y1="184.78" x2="539.35" y2="184.78"/>
+<line class="st1" x1="759.28" y1="210.26" x2="759.28" y2="210.26"/>
+<line class="st0" x1="1017.41" y1="184.78" x2="1017.41" y2="184.78"/>
+<line class="st1" x1="1237.34" y1="210.26" x2="1237.34" y2="210.26"/>
+<polygon class="st2" points="139.96,229.79 139.96,339.6 169.91,369.55 169.91,229.79 		"/>
+<polygon class="st3" points="30.15,339.6 30.15,369.55 169.91,369.55 139.96,339.6 		"/>
+<rect x="30.15" y="229.79" class="st4" width="109.81" height="109.81"/>
+<polygon class="st2" points="339.61,229.79 339.61,339.6 369.56,369.55 369.56,229.79 		"/>
+<polygon class="st3" points="229.8,339.6 229.8,369.55 369.56,369.55 339.61,339.6 		"/>
+<rect x="229.8" y="229.79" class="st4" width="109.81" height="109.81"/>
+<polygon class="st2" points="339.61,30.14 339.61,139.95 369.56,169.9 369.56,30.14 		"/>
+<polygon class="st3" points="229.8,139.95 229.8,169.9 369.56,169.9 339.61,139.95 		"/>
+<rect x="229.8" y="30.14" class="st4" width="109.81" height="109.81"/>
+<polygon class="st2" points="139.96,30.14 139.96,139.95 169.91,169.9 169.91,30.14 		"/>
+<polygon class="st3" points="30.15,139.95 30.15,169.9 169.91,169.9 139.96,139.95 		"/>
+<rect x="30.15" y="30.14" class="st4" width="109.81" height="109.81"/>
+<path class="st5" d="M0.2,0.19V399.5h399.31V0.19H0.2z M169.91,369.55H30.15V339.6V229.79h109.81h29.95V369.55z M169.91,169.9 H30.15v-29.95V30.14h109.81h29.95V169.9z M369.56,369.55H229.8V339.6V229.79h109.81h29.95V369.55z M369.56,169.9H229.8v-29.95 V30.14h109.81h29.95V169.9z"/>
+</svg>

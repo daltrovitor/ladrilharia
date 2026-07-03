@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 400 400"
+	 style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: white; stroke: black; stroke-width: 3}
+	.st1{fill: white; stroke: black; stroke-width: 3}
+	.st2{fill: white; stroke: black; stroke-width: 3}
+</style>
+<rect id="XMLID_1726_" x="0.05" y="0.33" class="st0" width="133.17" height="399.67"/>
+<polygon id="XMLID_1725_" class="st1" points="199.89,0.33 399.95,133.53 399.95,0.02 		"/>
+<polygon id="XMLID_1724_" class="st2" points="199.89,0.33 133.22,0.33 399.95,266.73 399.95,133.53 		"/>
+<polygon id="XMLID_1723_" class="st1" points="399.95,266.73 133.22,0.33 133.22,266.73 		"/>
+<rect id="XMLID_1722_" x="133.22" y="266.73" class="st2" width="266.73" height="133.27"/>
+</svg>
